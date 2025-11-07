@@ -26,7 +26,7 @@ To build and deploy a machine-learning-based recommendation engine that helps us
 6. **Results & Insights** – Analyze recommendation lists, identify what works, what can be improved.
 
 ## 📈 Key Results  
-- Achieved **Precision@10: XX%** and **Recall@10: XX%** using the hybrid model.  
+- Achieved **Precision** and **Recall** using the hybrid model.  
 - Top features driving recommendations: brand loyalty score, product category similarity, user historical ratings.  
 - Deployed prototype UI allowing users to receive top-5 product suggestions in under 2 seconds.
 
